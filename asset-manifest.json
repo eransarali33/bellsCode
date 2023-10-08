@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/bellscode/static/css/main.818774ac.css",
+    "main.js": "/bellscode/static/js/main.34a22909.js",
+    "static/js/787.e00d29e5.chunk.js": "/bellscode/static/js/787.e00d29e5.chunk.js",
+    "static/media/bodyJ11.png": "/bellscode/static/media/bodyJ11.5b5dbbe0bc9c52196b77.png",
+    "static/media/bodyJ9.png": "/bellscode/static/media/bodyJ9.77f877e0a6f477c42682.png",
+    "static/media/bodyJ1.png": "/bellscode/static/media/bodyJ1.b5fe2c8264babb95b3c6.png",
+    "static/media/bodyJ7.png": "/bellscode/static/media/bodyJ7.476e29880e185bc4bfbc.png",
+    "static/media/bodyJ2.png": "/bellscode/static/media/bodyJ2.bfcee01b3b178ee5d2aa.png",
+    "static/media/bodyJ5.png": "/bellscode/static/media/bodyJ5.f2f6f33b1875ee2e747b.png",
+    "static/media/bodyJ3.png": "/bellscode/static/media/bodyJ3.d9612accd0cd2d6619aa.png",
+    "static/media/bodyJ10.png": "/bellscode/static/media/bodyJ10.53f6c58bfd30cacbb44f.png",
+    "static/media/bodyD1.png": "/bellscode/static/media/bodyD1.1efc6ee048156bbbabf2.png",
+    "static/media/bodyJ4.png": "/bellscode/static/media/bodyJ4.1efc6ee048156bbbabf2.png",
+    "static/media/bodyJ12.png": "/bellscode/static/media/bodyJ12.105b01670cfdd8e72d08.png",
+    "static/media/bodyJ8.png": "/bellscode/static/media/bodyJ8.639c5bed488c7ec02a06.png",
+    "static/media/bodyJ6.png": "/bellscode/static/media/bodyJ6.e06ea7a539b44aef231b.png",
+    "static/media/bodyC.png": "/bellscode/static/media/bodyC.50f01c11d9ab6ab58f82.png",
+    "static/media/bodyH.jpg": "/bellscode/static/media/bodyH.e19b017aa212c23f63e0.jpg",
+    "static/media/bodyD2.png": "/bellscode/static/media/bodyD2.991e7e8942de2f70bca8.png",
+    "static/media/header.png": "/bellscode/static/media/header.6c3aa2130d9ca880c6d5.png",
+    "static/media/bodyA1.png": "/bellscode/static/media/bodyA1.6086ce7907d69589f614.png",
+    "static/media/bodyA2.png": "/bellscode/static/media/bodyA2.f0537650c511b31f930f.png",
+    "static/media/bodyG.png": "/bellscode/static/media/bodyG.c5315d514d83ac347236.png",
+    "index.html": "/bellscode/index.html",
+    "main.818774ac.css.map": "/bellscode/static/css/main.818774ac.css.map",
+    "main.34a22909.js.map": "/bellscode/static/js/main.34a22909.js.map",
+    "787.e00d29e5.chunk.js.map": "/bellscode/static/js/787.e00d29e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818774ac.css",
+    "static/js/main.34a22909.js"
+  ]
+}
