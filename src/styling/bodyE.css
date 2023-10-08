@@ -1,0 +1,18 @@
+.bodyE {
+  height: 40vh;
+  background-color: rgb(239, 246, 247);
+}
+
+.textSecE {
+  padding: 1% 0;
+}
+
+.textSecE h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.imgSecE {
+  display: flex;
+  justify-content: space-evenly;
+}

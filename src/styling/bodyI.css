@@ -1,0 +1,49 @@
+.bodyI {
+  height: 40vh;
+  margin: 3%;
+}
+
+.h2SecI {
+  font-size: 40px;
+}
+
+.h2SecI b {
+  color: blueviolet;
+}
+
+.textSecI {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: large;
+  font-weight: 300;
+}
+
+.textSecI p {
+  font-size: large;
+  font-weight: 400;
+  line-height: 3px;
+}
+
+.textSecI1 {
+  border-right: 1px solid black;
+  padding-right: 10%;
+}
+
+.textSecI2 {
+  border-right: 1px solid black;
+  padding-right: 10%;
+}
+
+.icon1 {
+  color: blueviolet;
+  padding-bottom: 0;
+}
+.icon2 {
+  color: rgb(241, 241, 39);
+  padding-bottom: 0;
+}
+.icon3 {
+  color: blueviolet;
+  padding-bottom: 0;
+}

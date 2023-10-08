@@ -1,0 +1,55 @@
+.bodyF {
+  display: flex;
+  flex-direction: row;
+  background-color: blueviolet;
+  height: 35vh;
+  border-radius: 30px;
+  margin: 3%;
+}
+
+.bodyF .textSecF {
+  width: 50%;
+  display: flex;
+  margin-left: 7%;
+  flex-direction: column;
+  justify-content: center;
+  height: auto;
+  align-items: center;
+}
+
+.textSecF h1 {
+  display: flex;
+  align-self: flex-start;
+  color: white;
+  font-size: 40px;
+  line-height: 1px;
+}
+.bodyF .btnSecF {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  height: auto;
+  align-items: center;
+}
+
+.btnSecF .bttn1 {
+  height: 60px;
+  width: 140px;
+  padding: auto 35px;
+  border-radius: 28px;
+  border: none;
+  background-color: white;
+  font-size: large;
+  margin-right: 5%;
+}
+
+.btnSecF .bttn2 {
+  height: 58px;
+  width: 180px;
+  padding: auto 35px;
+  border-radius: 28px;
+  border: 1px solid white;
+  font-size: large;
+  background-color: blueviolet;
+  color: white;
+}

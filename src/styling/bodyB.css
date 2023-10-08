@@ -1,0 +1,98 @@
+.bodyB {
+  height: 105vh;
+  background-color: #c9d2ea;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 3% 1% 5%;
+}
+
+.txtSec {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 90vh;
+  width: 30vw;
+  padding: 2%;
+}
+.txtSec h1 {
+  align-self: flex-start;
+  line-height: 1px;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.txtSec p {
+  align-self: flex-start;
+  line-height: 1px;
+  font-size: large;
+}
+
+.txtSec h2 {
+  align-self: flex-start;
+  padding-top: 43px;
+}
+
+.txtSec h2 b {
+  color: blueviolet;
+}
+
+.txtSec p .icons {
+  color: blueviolet;
+}
+
+.formSec {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  height: 90vh;
+  width: 34vw;
+  background-color: white;
+  padding: 2% 5%;
+  margin-left: 15%;
+  border-radius: 25px;
+}
+
+.formSec h1 {
+  align-self: flex-start;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 10px;
+}
+
+.formSec h1 b {
+  color: blueviolet;
+}
+.formSec h2 {
+  align-self: flex-start;
+  padding-bottom: 20px;
+}
+.formSec h2 b {
+  color: blueviolet;
+}
+
+.formSec input {
+  height: 45px;
+  margin-bottom: 19px;
+  border: 1px solid rgb(19, 59, 19);
+  border-radius: 10px;
+  padding-left: 25px;
+  font-size: medium;
+}
+
+.formSec button {
+  height: 45px;
+  width: 20%;
+  border-radius: 5px;
+  border: none;
+  background-color: blueviolet;
+  color: white;
+  font-size: medium;
+  margin-top: 14px;
+}
+
+.formSec p {
+  align-self: flex-start;
+  font-size: medium;
+  padding-top: 20px;
+}

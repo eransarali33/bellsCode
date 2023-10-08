@@ -1,0 +1,103 @@
+.bodyH {
+  height: 140vh;
+  padding: 3% 3%;
+  display: flex;
+  flex-direction: row;
+}
+
+.bodyH .imgSecH {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.bodyH .imgSecH img {
+  width: 95%;
+}
+
+.bodyH .textSecH {
+  width: 50%;
+}
+.h2Items h2 {
+  display: flex;
+  align-self: flex-start;
+  line-height: 14px;
+  font-size: 40px;
+}
+.h2Items h2 b {
+  color: blueviolet;
+}
+
+.pItems p {
+  display: flex;
+  align-self: flex-start;
+  color: black;
+  font-size: large;
+}
+
+.iconItems1 p {
+  display: flex;
+  align-self: flex-start;
+  line-height: 4px;
+  font-size: large;
+  padding-left: 5%;
+  padding-top: 1px;
+}
+
+.iconItems1 h3 {
+  padding-top: 2%;
+  display: flex;
+  align-self: flex-start;
+  font-size: x-large;
+  font-weight: 500;
+}
+.iconItems2 p {
+  display: flex;
+  align-self: flex-start;
+  line-height: 4px;
+  font-size: large;
+  padding-left: 5%;
+  padding-top: 1px;
+}
+
+.iconItems2 h3 {
+  display: flex;
+  align-self: flex-start;
+  font-size: x-large;
+  font-weight: 500;
+}
+.iconItems3 p {
+  display: flex;
+  align-self: flex-start;
+  line-height: 4px;
+  font-size: large;
+  padding-left: 5%;
+  padding-top: 1px;
+}
+
+.iconItems3 h3 {
+  display: flex;
+  align-self: flex-start;
+  font-size: x-large;
+  font-weight: 500;
+}
+.iconItems4 p {
+  display: flex;
+  align-self: flex-start;
+  line-height: 4px;
+  font-size: large;
+  padding-left: 5%;
+  padding-top: 1px;
+}
+
+.iconItems4 h3 {
+  display: flex;
+  align-self: flex-start;
+  font-size: x-large;
+  font-weight: 500;
+}
+
+.icon {
+  padding: 5px 10px 5px 0;
+  color: blueviolet;
+}

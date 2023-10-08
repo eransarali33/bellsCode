@@ -1,0 +1,42 @@
+.bodyC {
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 4% 5%;
+  background-color: rgb(239, 246, 247);
+}
+
+.textSec {
+  display: flex;
+  height: auto;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  width: auto;
+  margin-right: 120px;
+  padding-bottom: 30px;
+}
+
+.textSec h2 {
+  line-height: 0;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.textSec h2 b {
+  color: blueviolet;
+  font-weight: 800;
+}
+
+.btn {
+  align-self: flex-start;
+  height: 40px;
+  font-size: medium;
+  border: none;
+  border-radius: 18px;
+  background-color: blueviolet;
+  padding: 10px 20px;
+  margin-top: 15px;
+  color: white;
+}

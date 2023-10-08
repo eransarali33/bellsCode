@@ -1,0 +1,70 @@
+.bodyJ {
+  height: 90vh;
+  background-color: #c9d2ea;
+}
+
+.textSecJ {
+  font-size: 40px;
+  padding: 5% 0 1%;
+}
+
+.textSecJ b {
+  color: blueviolet;
+}
+
+.imgWithArr {
+  display: flex;
+  width: 80vw;
+  flex-direction: row;
+  position: relative;
+  overflow: hidden;
+  margin: 5% auto;
+  align-items: center;
+}
+
+.imgSecJ {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.imgWithArr .imgSecJ img {
+  flex: 0 0 auto;
+  width: 25%;
+}
+
+#icon1,
+#icon2 {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: white;
+  font-size: 30px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+#icon1 {
+  color: red;
+  top: 50%;
+  left: 1%;
+  z-index: 999;
+}
+
+#icon2 {
+  color: red;
+  top: 50%;
+  right: 1%;
+  z-index: 999;
+}
+
+@media (max-width: 1200px) {
+  .imgSecJ img {
+    width: 30%;
+  }
+}
+
+@media (max-width: 992px) {
+  .imgSecJ img {
+    width: 45%;
+  }
+}
