@@ -32,10 +32,10 @@
   align-self: flex-start;
 }
 
-.pItems {
+.pItemsD {
   padding-top: 20px;
 }
-.pItems p {
+.pItemsD p {
   display: flex;
   align-self: flex-start;
   color: white;

@@ -12,7 +12,7 @@ const BodyD = () => {
           <h2>deploying professionals</h2>
           <h2>as your own</h2>
         </div>
-        <div className="pItems">
+        <div className="pItemsD">
           <p>"Embark on your journay right away with unmatched</p>
           <p>assistance."</p>
         </div>
